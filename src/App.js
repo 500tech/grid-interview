@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import Grid from './Grid';
 
 const Trailer = ({ data }) => (
-  <a href={ data.trailer }
+  <a href={ data.url }
      target="_blank"
      rel="noopener noreferrer">
     trailer...
@@ -25,7 +25,7 @@ const config = [
   },
   {
     title: 'trailer',
-    field: 0,
+    field: 'Trailer',
     component: Trailer
   }
 ];
