@@ -17,7 +17,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/6hB3S9bIaco"
+      "url":"https://www.youtube.com/watch?v=6hB3S9bIaco"
     }
   },
   {
@@ -38,7 +38,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/SUXWAEX2jlg"
+      "url":"https://www.youtube.com/watch?v=SUXWAEX2jlg"
     }
   },
   {
@@ -59,7 +59,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/WGpq-LDV6jU"
+      "url":"https://www.youtube.com/watch?v=WGpq-LDV6jU"
     }
   },
   {
@@ -80,7 +80,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/PkEKIw0FU6Y"
+      "url":"https://www.youtube.com/watch?v=PkEKIw0FU6Y"
     }
   },
   {
@@ -101,7 +101,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/VIgkpEgCV-I"
+      "url":"https://www.youtube.com/watch?v=VIgkpEgCV-I"
     }
   },
   {
@@ -122,7 +122,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/2WSyJgydTsA"
+      "url":"https://www.youtube.com/watch?v=2WSyJgydTsA"
     }
   },
   {
@@ -143,7 +143,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/66TuSJo4dZM"
+      "url":"https://www.youtube.com/watch?v=66TuSJo4dZM"
     }
   },
   {
@@ -164,7 +164,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/qo5jJpHtI1Y"
+      "url":"https://www.youtube.com/watch?v=qo5jJpHtI1Y"
     }
   },
   {
@@ -185,7 +185,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/9gvqpFbRKtQ"
+      "url":"https://www.youtube.com/watch?v=9gvqpFbRKtQ"
     }
   },
   {
@@ -206,7 +206,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/xnRUHtSgJ9o"
+      "url":"https://www.youtube.com/watch?v=xnRUHtSgJ9o"
     }
   },
   {
@@ -227,7 +227,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/uPIEn0M8su0"
+      "url":"https://www.youtube.com/watch?v=uPIEn0M8su0"
     }
   },
   {
@@ -248,7 +248,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/m8e-FF8MsqU"
+      "url":"https://www.youtube.com/watch?v=m8e-FF8MsqU"
     }
   },
   {
@@ -269,7 +269,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/sY1S34973zA"
+      "url":"https://www.youtube.com/watch?v=sY1S34973zA"
     }
   },
   {
@@ -290,7 +290,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/Wek5UClasY8"
+      "url":"https://www.youtube.com/watch?v=Wek5UClasY8"
     }
   },
   {
@@ -311,7 +311,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/ioUE_5wpg_E"
+      "url":"https://www.youtube.com/watch?v=ioUE_5wpg_E"
     }
   },
   {
@@ -332,7 +332,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/J4YV2_TcCoE"
+      "url":"https://www.youtube.com/watch?v=J4YV2_TcCoE"
     }
   },
   {
@@ -353,7 +353,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/lQKs169Sl0I"
+      "url":"https://www.youtube.com/watch?v=lQKs169Sl0I"
     }
   },
   {
@@ -374,7 +374,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/MNGQ1hUyx-k"
+      "url":"https://www.youtube.com/watch?v=MNGQ1hUyx-k"
     }
   },
   {
@@ -395,7 +395,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/TLU41jUnWM4"
+      "url":"https://www.youtube.com/watch?v=TLU41jUnWM4"
     }
   },
   {
@@ -416,7 +416,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/9MjV4EwR7Mg"
+      "url":"https://www.youtube.com/watch?v=9MjV4EwR7Mg"
     }
   },
   {
@@ -437,7 +437,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/0ZOcoxjeUYo"
+      "url":"https://www.youtube.com/watch?v=0ZOcoxjeUYo"
     }
   },
   {
@@ -458,7 +458,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/6kCcZCMYw38"
+      "url":"https://www.youtube.com/watch?v=6kCcZCMYw38"
     }
   },
   {
@@ -479,7 +479,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/LJfZaT8ncYk"
+      "url":"https://www.youtube.com/watch?v=LJfZaT8ncYk"
     }
   },
   {
@@ -500,7 +500,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/qJr92K_hKl0"
+      "url":"https://www.youtube.com/watch?v=qJr92K_hKl0"
     }
   },
   {
@@ -521,7 +521,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/NG3-GlvKPcg"
+      "url":"https://www.youtube.com/watch?v=NG3-GlvKPcg"
     }
   },
   {
@@ -542,7 +542,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/DcsirofJrlM"
+      "url":"https://www.youtube.com/watch?v=DcsirofJrlM"
     }
   },
   {
@@ -563,7 +563,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/xzYqUpV_B-A"
+      "url":"https://www.youtube.com/watch?v=xzYqUpV_B-A"
     }
   },
   {
@@ -584,7 +584,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/UV0VEstvjMM"
+      "url":"https://www.youtube.com/watch?v=UV0VEstvjMM"
     }
   },
   {
@@ -605,7 +605,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/Tt0xxAMTp8M"
+      "url":"https://www.youtube.com/watch?v=Tt0xxAMTp8M"
     }
   },
   {
@@ -626,7 +626,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/eajuMYNYtuY"
+      "url":"https://www.youtube.com/watch?v=eajuMYNYtuY"
     }
   },
   {
@@ -647,7 +647,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/zwhP5b4tD6g"
+      "url":"https://www.youtube.com/watch?v=zwhP5b4tD6g"
     }
   },
   {
@@ -668,7 +668,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/0vS0E9bBSL0"
+      "url":"https://www.youtube.com/watch?v=0vS0E9bBSL0"
     }
   },
   {
@@ -689,7 +689,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/X_W1tOngo-w"
+      "url":"https://www.youtube.com/watch?v=X_W1tOngo-w"
     }
   },
   {
@@ -710,7 +710,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/71I4bdA7lDA"
+      "url":"https://www.youtube.com/watch?v=71I4bdA7lDA"
     }
   },
   {
@@ -731,7 +731,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/s7EdQ4FqbhY"
+      "url":"https://www.youtube.com/watch?v=s7EdQ4FqbhY"
     }
   },
   {
@@ -752,7 +752,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/bEVY_lonKf4"
+      "url":"https://www.youtube.com/watch?v=bEVY_lonKf4"
     }
   },
   {
@@ -773,7 +773,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/Ekwbgtp1_Vg"
+      "url":"https://www.youtube.com/watch?v=Ekwbgtp1_Vg"
     }
   },
   {
@@ -794,7 +794,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/6az9wGfeSgM"
+      "url":"https://www.youtube.com/watch?v=6az9wGfeSgM"
     }
   },
   {
@@ -815,7 +815,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/HRfmTpmIUwo"
+      "url":"https://www.youtube.com/watch?v=HRfmTpmIUwo"
     }
   },
   {
@@ -836,7 +836,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/yosuvf7Unmg"
+      "url":"https://www.youtube.com/watch?v=yosuvf7Unmg"
     }
   },
   {
@@ -857,7 +857,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/16RZHqCIy9M"
+      "url":"https://www.youtube.com/watch?v=16RZHqCIy9M"
     }
   },
   {
@@ -878,7 +878,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/5Cb3ik6zP2I"
+      "url":"https://www.youtube.com/watch?v=5Cb3ik6zP2I"
     }
   },
   {
@@ -899,7 +899,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/u_jE7-6Uv7E"
+      "url":"https://www.youtube.com/watch?v=u_jE7-6Uv7E"
     }
   },
   {
@@ -920,7 +920,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/zyv19bg0scg"
+      "url":"https://www.youtube.com/watch?v=zyv19bg0scg"
     }
   },
   {
@@ -941,7 +941,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/SGWvwjZ0eDc"
+      "url":"https://www.youtube.com/watch?v=SGWvwjZ0eDc"
     }
   },
   {
@@ -962,7 +962,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/JdkSuurdbDA"
+      "url":"https://www.youtube.com/watch?v=JdkSuurdbDA"
     }
   },
   {
@@ -983,7 +983,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/cIj3Bk0bhL8"
+      "url":"https://www.youtube.com/watch?v=cIj3Bk0bhL8"
     }
   },
   {
@@ -1004,7 +1004,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/nmDA60X-f_A"
+      "url":"https://www.youtube.com/watch?v=nmDA60X-f_A"
     }
   },
   {
@@ -1025,7 +1025,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/Z5jvQwwHQNY"
+      "url":"https://www.youtube.com/watch?v=Z5jvQwwHQNY"
     }
   },
   {
@@ -1046,7 +1046,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/eUdM9vrCbow"
+      "url":"https://www.youtube.com/watch?v=eUdM9vrCbow"
     }
   },
   {
@@ -1067,7 +1067,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/yKrrAa2o9Eg"
+      "url":"https://www.youtube.com/watch?v=yKrrAa2o9Eg"
     }
   },
   {
@@ -1088,7 +1088,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/g8evyE9TuYk"
+      "url":"https://www.youtube.com/watch?v=g8evyE9TuYk"
     }
   },
   {
@@ -1130,7 +1130,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/sLpMx8_TYOo"
+      "url":"https://www.youtube.com/watch?v=sLpMx8_TYOo"
     }
   },
   {
@@ -1151,7 +1151,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/3ycmmJ6rxA8"
+      "url":"https://www.youtube.com/watch?v=3ycmmJ6rxA8"
     }
   },
   {
@@ -1172,7 +1172,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/ctRK-4Vt7dA"
+      "url":"https://www.youtube.com/watch?v=ctRK-4Vt7dA"
     }
   },
   {
@@ -1193,7 +1193,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/yQ5U8suTUw0"
+      "url":"https://www.youtube.com/watch?v=yQ5U8suTUw0"
     }
   },
   {
@@ -1214,7 +1214,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/ol67qo3WhJk"
+      "url":"https://www.youtube.com/watch?v=ol67qo3WhJk"
     }
   },
   {
@@ -1235,7 +1235,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/34WIbmXkewU"
+      "url":"https://www.youtube.com/watch?v=34WIbmXkewU"
     }
   },
   {
@@ -1256,7 +1256,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/alIq_wG9FNk"
+      "url":"https://www.youtube.com/watch?v=alIq_wG9FNk"
     }
   },
   {
@@ -1277,7 +1277,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/FppW5ml4vdw"
+      "url":"https://www.youtube.com/watch?v=FppW5ml4vdw"
     }
   },
   {
@@ -1298,7 +1298,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/JcpWXaA2qeg"
+      "url":"https://www.youtube.com/watch?v=JcpWXaA2qeg"
     }
   },
   {
@@ -1319,7 +1319,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/zroWIN-lS8E"
+      "url":"https://www.youtube.com/watch?v=zroWIN-lS8E"
     }
   },
   {
@@ -1340,7 +1340,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/o4gHCmTQDVI"
+      "url":"https://www.youtube.com/watch?v=o4gHCmTQDVI"
     }
   },
   {
@@ -1361,7 +1361,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/G7fO3bzPeBQ"
+      "url":"https://www.youtube.com/watch?v=G7fO3bzPeBQ"
     }
   },
   {
@@ -1382,7 +1382,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/a3tuBFHuYV4"
+      "url":"https://www.youtube.com/watch?v=a3tuBFHuYV4"
     }
   },
   {
@@ -1403,7 +1403,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/sECzJY07oK4"
+      "url":"https://www.youtube.com/watch?v=sECzJY07oK4"
     }
   },
   {
@@ -1424,7 +1424,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/A7CBKT0PWFA"
+      "url":"https://www.youtube.com/watch?v=A7CBKT0PWFA"
     }
   },
   {
@@ -1445,7 +1445,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/KR7loA_oziY"
+      "url":"https://www.youtube.com/watch?v=KR7loA_oziY"
     }
   },
   {
@@ -1466,7 +1466,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/QvoKT481EmU"
+      "url":"https://www.youtube.com/watch?v=QvoKT481EmU"
     }
   },
   {
@@ -1487,7 +1487,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/7pzKyeIex2Y"
+      "url":"https://www.youtube.com/watch?v=7pzKyeIex2Y"
     }
   },
   {
@@ -1508,7 +1508,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/4sj1MT05lAA"
+      "url":"https://www.youtube.com/watch?v=4sj1MT05lAA"
     }
   },
   {
@@ -1529,7 +1529,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/C2-GX0Tltgw"
+      "url":"https://www.youtube.com/watch?v=C2-GX0Tltgw"
     }
   },
   {
@@ -1550,7 +1550,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/OvUh9_GFXA0"
+      "url":"https://www.youtube.com/watch?v=OvUh9_GFXA0"
     }
   },
   {
@@ -1571,7 +1571,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/vGpvO8JabEc"
+      "url":"https://www.youtube.com/watch?v=vGpvO8JabEc"
     }
   },
   {
@@ -1592,7 +1592,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/HjMDg1Z9_gA"
+      "url":"https://www.youtube.com/watch?v=HjMDg1Z9_gA"
     }
   },
   {
@@ -1613,7 +1613,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/mzhX2PD6Srw"
+      "url":"https://www.youtube.com/watch?v=mzhX2PD6Srw"
     }
   },
   {
@@ -1634,7 +1634,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/jzk-lmU4KZ4"
+      "url":"https://www.youtube.com/watch?v=jzk-lmU4KZ4"
     }
   },
   {
@@ -1655,7 +1655,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/dwfIf1WMhgc"
+      "url":"https://www.youtube.com/watch?v=dwfIf1WMhgc"
     }
   },
   {
@@ -1676,7 +1676,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/lnSgSe2GzDc"
+      "url":"https://www.youtube.com/watch?v=lnSgSe2GzDc"
     }
   },
   {
@@ -1697,7 +1697,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/5IQqG0O8oQg"
+      "url":"https://www.youtube.com/watch?v=5IQqG0O8oQg"
     }
   },
   {
@@ -1718,7 +1718,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/ZrLcnrnEqyI"
+      "url":"https://www.youtube.com/watch?v=ZrLcnrnEqyI"
     }
   },
   {
@@ -1739,7 +1739,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/vbnGDeq40hI"
+      "url":"https://www.youtube.com/watch?v=vbnGDeq40hI"
     }
   },
   {
@@ -1760,7 +1760,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/C4XbnrmbEME"
+      "url":"https://www.youtube.com/watch?v=C4XbnrmbEME"
     }
   },
   {
@@ -1781,7 +1781,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/H3jnzXX9mXs"
+      "url":"https://www.youtube.com/watch?v=H3jnzXX9mXs"
     }
   },
   {
@@ -1802,7 +1802,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/FueLhmwT8E4"
+      "url":"https://www.youtube.com/watch?v=FueLhmwT8E4"
     }
   },
   {
@@ -1823,7 +1823,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/36QiuRc_3I8"
+      "url":"https://www.youtube.com/watch?v=36QiuRc_3I8"
     }
   },
   {
@@ -1844,7 +1844,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/pkWWWKKA8jY"
+      "url":"https://www.youtube.com/watch?v=pkWWWKKA8jY"
     }
   },
   {
@@ -1865,7 +1865,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/RDM75-oXGmQ"
+      "url":"https://www.youtube.com/watch?v=RDM75-oXGmQ"
     }
   },
   {
@@ -1886,7 +1886,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/r5X-hFf6Bwo"
+      "url":"https://www.youtube.com/watch?v=r5X-hFf6Bwo"
     }
   },
   {
@@ -1907,7 +1907,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/ZSExdX0tds4"
+      "url":"https://www.youtube.com/watch?v=ZSExdX0tds4"
     }
   },
   {
@@ -1928,7 +1928,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/xCZ9TguVOIA"
+      "url":"https://www.youtube.com/watch?v=xCZ9TguVOIA"
     }
   },
   {
@@ -1949,7 +1949,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/rI_lUHOCcbc"
+      "url":"https://www.youtube.com/watch?v=rI_lUHOCcbc"
     }
   },
   {
@@ -1970,7 +1970,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/yIzhAKtEzY0"
+      "url":"https://www.youtube.com/watch?v=yIzhAKtEzY0"
     }
   },
   {
@@ -1991,7 +1991,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/N6ywMnbef6Y"
+      "url":"https://www.youtube.com/watch?v=N6ywMnbef6Y"
     }
   },
   {
@@ -2012,7 +2012,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/uHVYTPFgCqE"
+      "url":"https://www.youtube.com/watch?v=uHVYTPFgCqE"
     }
   },
   {
@@ -2033,7 +2033,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/KsVN1hv9D5c"
+      "url":"https://www.youtube.com/watch?v=KsVN1hv9D5c"
     }
   },
   {
@@ -2054,7 +2054,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/5-Fh2pMLFOM"
+      "url":"https://www.youtube.com/watch?v=5-Fh2pMLFOM"
     }
   },
   {
@@ -2075,7 +2075,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/B4OXm9-E8OQ"
+      "url":"https://www.youtube.com/watch?v=B4OXm9-E8OQ"
     }
   },
   {
@@ -2096,7 +2096,7 @@ export default [
     "Type":"movie",
     "Response":"True",
     "Trailer":{
-      "url":"https://www.youtube.com/v/hxv9ghINEhs"
+      "url":"https://www.youtube.com/watch?v=hxv9ghINEhs"
     }
   }
 ];
