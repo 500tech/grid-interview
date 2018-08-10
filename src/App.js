@@ -23,11 +23,11 @@ const config = [
     title: 'rating',
     field: 'imdbRating',
   },
-  {
-    title: 'trailer',
-    field: 'Trailer',
-    component: Trailer
-  }
+//  {
+//    title: 'trailer',
+//    field: 'Trailer',
+//    component: Trailer
+//  }
 ];
 
 const App = ({ data }) => (
