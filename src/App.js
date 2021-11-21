@@ -1,16 +1,19 @@
 import React from 'react';
-import { connect } from 'react-redux';
 import Grid from './Grid';
+import movies from './data_a';
+import pokemon from './data_b';
 
 const Trailer = ({ data }) => (
-  <a href={ data.url }
+  <a href={data.url}
      target="_blank"
      rel="noopener noreferrer">
     trailer...
   </a>
 );
 
-const config = [
+const PokemonName = ({ data }) => <span style={{ textTransform: 'capitalize' }}>{data}</span>;
+
+const moviesConfig = [
   {
     title: 'id',
     field: 'imdbID'
@@ -23,21 +26,33 @@ const config = [
     title: 'rating',
     field: 'imdbRating',
   },
-//  {
-//    title: 'trailer',
-//    field: 'Trailer',
-//    component: Trailer
-//  }
+ // {
+ //   title: 'trailer',
+ //   field: 'Trailer',
+ //   component: Trailer
+ // }
 ];
 
-const App = ({ data }) => (
+const pokemonConfig = [
+  {
+    title: 'pokedex #',
+    field: 'number'
+  },
+  // {
+  //   title: 'name',
+  //   field: 'name',
+  //   component: PokemonName
+  // },
+];
+
+const App = () => (
   <div>
-    <Grid config={ config } data={ data } />
+    <h2>Movies</h2>
+    <Grid config={moviesConfig} data={movies} />
+
+    <h2>Pokemon</h2>
+    <Grid config={pokemonConfig} data={pokemon} />
   </div>
 );
 
-const mapStateToProps = state => ({
-  data: state.movies
-});
-
-export default connect(mapStateToProps)(App);
+export default App;
